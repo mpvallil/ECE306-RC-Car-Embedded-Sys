@@ -1,2 +1,2 @@
 # ECE306-RC-Car-Embedded-Sys
-This is an RC Car project for ECE306 using an MSP430 board. The car autonomously follows a black line through commands sent through an IOT module onboard. Given are a few sample files used in the project.
+This is an RC Car project for ECE306 using an MSP430 board. The car is capable of autonomously following a black line using input from onboard sensors. The car is also capable of receiving commands through the internet by way of an IoT Wifi module added to the board.Included is sample code for the board, written in C using IAR Embedded Workbench. Also included is sample code from an Android application written to control the car, written in Java using Android Studio IDE.
